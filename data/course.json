@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Historiography"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "847ba2b9-d810-11f3-02d7-a829ccd0da22"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Coming Years",
+  "course_description": "Explore the future through modeling, reading, and discussion in an open-ended seminar! Our fields of interest will include changes in science and technology, culture and lifestyles, and dominant paradigms and societies.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.256",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
